@@ -1,0 +1,2 @@
+class RepasarController < ApplicationController
+end
